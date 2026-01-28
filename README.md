@@ -22,3 +22,8 @@ with columns:
 - Rating
 - Description
 
+important note :- you need to find class on website using inspect and change according to that
+ex:-    name = p.find("div", class_="RG5Slk")
+        price = p.find("div", class_="hZ3P6w DeU9vF")
+        rating = p.find("div", class_="MKiFS6")
+        desc = p.find("div", class_="CMXw7N")
