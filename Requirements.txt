@@ -1,0 +1,13 @@
+Requirements
+To run this project, make sure you have the following installed:
+- Python 3.8+
+- Google Chrome Browser (latest version recommended)
+- ChromeDriver (must match your Chrome version)
+- Libraries:
+- selenium
+- beautifulsoup4
+- lxml
+- pandas
+
+
+pip install selenium beautifulsoup4 lxml pandas

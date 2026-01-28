@@ -1,0 +1,5 @@
+Tech Stack
+• Python
+• Selenium
+• BeautifulSoup (bs4)
+• Pandas
